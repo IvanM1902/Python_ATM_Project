@@ -1,0 +1,3 @@
+ID, accNum, type, amount, date
+1,666666,Withdraw,678,"2021,12,18"
+2,666666,Transfer,3000,"2021,12,18"
