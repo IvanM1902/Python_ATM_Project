@@ -27,10 +27,8 @@ To run this application:
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-atm-project-repo.git
-cd your-atm-project-repo
-
-(Replace your-username and your-atm-project-repo with your actual GitHub details)
+git clone https://github.com/IvanM1902/Python_ATM_Project.git
+cd Python_ATM_Project
 
 Run the application:
 
